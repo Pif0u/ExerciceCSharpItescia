@@ -51,6 +51,9 @@ namespace SocieteListe
             Console.WriteLine(" -- [Affichage avec InsererFin] --");
             Liste.Lister();
 
+            Console.WriteLine(" -- [Affichage avec Indexeurs] --");
+            Console.WriteLine(Liste.Get(1).ToString());
+
 
 
         }

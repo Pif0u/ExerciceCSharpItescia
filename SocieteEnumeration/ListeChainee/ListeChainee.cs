@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SocieteListe.ListeChainee
+namespace SocieteEnumeration.ListeChainee
 {
     public class Element
     {
@@ -125,6 +125,7 @@ namespace SocieteListe.ListeChainee
     }
 
 
+
 }
 
-  
+
