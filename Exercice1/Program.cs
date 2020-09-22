@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExerciceCSharpItescia
+namespace Exercice1
 {
 
     public class Article

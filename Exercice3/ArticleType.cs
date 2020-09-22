@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Excercice3
+namespace Exercice3
 {
     public enum TypeArticleEnum
     {

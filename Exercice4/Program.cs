@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Excercice4
+namespace Exercice4
 {
     class Program
     {
@@ -19,7 +19,7 @@ namespace Excercice4
             }
 
 
-            Console.WriteLine("[Modification quanité Jeans]");
+            Console.WriteLine("[Modification quantité Jeans]");
             tableauArticle[2].Retirer();
             tableauArticle[2].Afficher();
 

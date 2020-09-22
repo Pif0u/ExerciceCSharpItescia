@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Excercice4
+namespace Exercice4
 {
     public enum TypeArticleEnum
     {
