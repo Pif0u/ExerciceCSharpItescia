@@ -1,5 +1,4 @@
 ﻿using System;
-using Microsoft.VisualBasic.CompilerServices;
 
 namespace ExerciceCSharpItescia
 {
@@ -89,7 +88,7 @@ namespace ExerciceCSharpItescia
 
 
 
-    class Exercice1
+    class Program
     {
         static void Main(string[] args)
         {
@@ -106,7 +105,7 @@ namespace ExerciceCSharpItescia
             Console.WriteLine(Environment.NewLine);
 
             Console.WriteLine("[Poche]");
-            Article newPoche = new Poche("Paroles", 5.00, "500-3-16-148410-0", 100,"Action");
+            Article newPoche = new Poche("Paroles", 5.00, "500-3-16-148410-0", 100, "Action");
             newPoche.acheter();
 
             Console.WriteLine(Environment.NewLine);
