@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personnes", "Personnes\Pers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocieteTableau", "SocieteTableau\SocieteTableau.csproj", "{5467880B-B880-41EB-BAC1-D35FB6718A81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocieteListe", "SocieteListe\SocieteListe.csproj", "{9A76EC38-1C10-4E65-976A-F9B508FDCFCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5467880B-B880-41EB-BAC1-D35FB6718A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5467880B-B880-41EB-BAC1-D35FB6718A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5467880B-B880-41EB-BAC1-D35FB6718A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A76EC38-1C10-4E65-976A-F9B508FDCFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A76EC38-1C10-4E65-976A-F9B508FDCFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A76EC38-1C10-4E65-976A-F9B508FDCFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A76EC38-1C10-4E65-976A-F9B508FDCFCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
