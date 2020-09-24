@@ -34,6 +34,12 @@ namespace SocieteEnumeration
 
             var ListeEnumeration = new ListeEnumeration(Liste);
 
+            do
+            {
+                Console.WriteLine(ListeEnumeration.Current().ToString());
+                Console.WriteLine(Environment.NewLine);
+            }
+            while (ListeEnumeration.MoveNext());
 
 
         }
