@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercice2
+namespace LINQExercice3._6
 {
-    public struct Article
+    public class Article
     {
         public string nomArticle;
         public double prixArticle;
@@ -41,7 +41,7 @@ namespace Exercice2
             {
                 quantiteArticle--;
                 Console.WriteLine("[Suppression Article]");
-                Console.WriteLine("Vous avez supprimez un article, il reste " + quantiteArticle + " unité de l'article " + nomArticle );
+                Console.WriteLine("Vous avez supprimez un article, il reste " + quantiteArticle + " unité de l'article " + nomArticle);
                 Console.WriteLine(Environment.NewLine);
             }
             else
@@ -50,10 +50,11 @@ namespace Exercice2
                 Console.WriteLine("Erreur : Il y a déjà 0 article");
                 Console.WriteLine(Environment.NewLine);
             }
-            
+
         }
 
 
 
     }
+
 }

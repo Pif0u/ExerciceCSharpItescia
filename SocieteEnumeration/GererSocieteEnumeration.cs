@@ -41,7 +41,6 @@ namespace SocieteEnumeration
             }
             while (ListeEnumeration.MoveNext());
 
-
         }
     }
 }
